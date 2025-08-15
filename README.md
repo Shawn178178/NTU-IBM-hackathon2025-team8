@@ -36,3 +36,9 @@ This notebook presents a method for modeling and solving the **Multi-Objective V
 - **Hamiltonian Conversion**: The QUBO matrices are converted into Ising Hamiltonians in the Pauli operator list format, which is a necessary step for quantum computation.
 - **QMOO Circuit**: A QAOA-style QMOO circuit is created using the two Hamiltonians (`H_eff`, `H_ser`) as phase operators.
 - **Solution Decoding and Visualization**: The notebook provides functions to decode bitstrings from the quantum circuit's measurement results into customer-vehicle assignments. It then visualizes a single optimized solution and a random solution on a graph, showing the depot and customer locations with assigned vehicle routes. This visualization helps to intuitively understand the trade-offs between the two objectives (e.g., total distance vs. delivery delay).
+
+#### References:
+
+[1] A. Kotil et al., “Quantum Approximate Multi-Objective Optimization,” arXiv:2503.22797v1 (2025).
+[2] A. Kotil et al., “Variational Quantum Multi-Objective Optimization,” arXiv:2312.14151 (2023).
+[3] R. Shaydulinet al., “Parameter Transfer for Quantum Approximate Optimization of Weighted MaxCut,” arXiv:2201.11785v2 (2023).
