@@ -4,5 +4,3 @@
 
 **Team 8:**
 Bo-Yu Lien, Jeongbin-Jo, Eliška Krátká, Hsiao-Nan Lu, Shang-Ling Hung
-
-tba: code + experimental data
