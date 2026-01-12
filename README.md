@@ -40,5 +40,7 @@ This notebook presents a method for modeling and solving the **Multi-Objective V
 #### References:
 
 [1] A. Kotil et al., “Quantum Approximate Multi-Objective Optimization,” arXiv:2503.22797v1 (2025).
+
 [2] A. Kotil et al., “Variational Quantum Multi-Objective Optimization,” arXiv:2312.14151 (2023).
+
 [3] R. Shaydulinet al., “Parameter Transfer for Quantum Approximate Optimization of Weighted MaxCut,” arXiv:2201.11785v2 (2023).
